@@ -1,0 +1,14 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "Trillo Project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Achraf",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
