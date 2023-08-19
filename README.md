@@ -10,5 +10,7 @@ Build :
 - CSS
 - SASS
 
+Deploy : 
+- Github
 
 
