@@ -1,9 +1,14 @@
-# Trillo-Responsive-Website-Using-Advanced-HTML-CSS-SASS-Flexbox-
+# Trillo
+## Book Easily, Discover Your Options.
 
-Trillo Responsive Website Using Advanced :
+Responsive Website Design Using Advanced HTML, CSS, and SASS.
 
-HTML
-CSS (Flexbox)
-SASS
+Demo: <a href="https://github.com/RiahiAchraf/Trillo" target="_blank" rel="noopener noreferrer">Trillo</a>
 
-Demo : https://riahiachraf.github.io/Trillo-Responsive-Website-Using-Advanced-HTML-CSS-SASS-Flexbox-/
+Build :
+- HTML
+- CSS
+- SASS
+
+
+
