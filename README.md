@@ -8,7 +8,7 @@ Demo: <a href="https://riahiachraf.github.io/Trillo/" target="_blank" rel="noope
 Build :
 - HTML
 - CSS
-- SASS
+- SCSS
 
 Deploy : 
 - Github
